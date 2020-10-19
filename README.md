@@ -1,2 +1,3 @@
 # firstrepo
-creating my first repo to get hands-on experience on Git Hu
+Hello
+I have edited this file to learn about commits.
